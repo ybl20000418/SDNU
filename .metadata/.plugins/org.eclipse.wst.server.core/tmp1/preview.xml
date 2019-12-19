@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="First" name="First" path="F:/Java/Web development project - 副本 - 副本 - 副本/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/First" type="j2ee"/>
+</server>

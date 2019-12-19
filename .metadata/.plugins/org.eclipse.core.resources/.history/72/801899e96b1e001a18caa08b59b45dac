@@ -1,0 +1,64 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta content="图书管理系统" http-equiv="keywords">
+<meta name="description" content="图书管理系统">
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-siteapp"/>
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+
+<title>图书管理系统</title>
+
+<link rel="stylesheet" href="CSS/index.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="CSS/children.css">
+
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+<script type="text/javascript" src="js/public.js"></script><!-- 菜单js等-->
+<!-- 时间选择js -->
+<script type="text/javascript" src="js/laydate.js"></script>
+
+</head>
+<body>
+<!--头部-->
+<div class="topbox bg">
+	<div class="wid_main fix">
+		<div class="logo l"><img src="images/logo.png" alt="logo" /></div>
+	</div>
+</div>
+<!-- top end -->
+
+<!-- 主体内容框 -->
+<div class="contentbox wid_main bora_5">
+	<div class="content">
+
+			<!-- zy_content -->
+			<div class="zy_content fix">
+
+				<div class="zy_conbox">
+					<div class="zy_newsxq">
+						<div class="xq_tit bdb_d">
+							<h1>我局顺利组织2019年福泉市第一期渔业安全生产知识培训及应急实操演练</h1>
+							<p><span>发布时间：2019-07-10 19:03:56</span><span>文章来源：福泉市综合执法局</span><span>阅读：235</span></p>
+						</div>
+						<div class="txt">
+							<p>新华社北京6月22日电（记者 叶昊鸣）记者22日从应急管理部获悉，南方地区近日将迎来新一轮更大范围、更大强度的降雨过程，一些地方将面临二次受灾。应急管理部当日对进一步做好防汛抗洪抢险救援救灾工作进行再部署。
+		                    </p>
+		                    <img src="images/pic01.jpg">
+		                    <p>22日上午，国家防总副总指挥、应急管理部党组书记黄明组织水利部、中国气象局、安能公司等单位有关负责人进行防汛抗洪抢险救援救灾工作调度会商会议，视频连线浙江、福建、广西、江西、湖南、重庆、贵州等7个省区市应急管理厅局及消防救援总队，分析研判当前雨情水情汛情灾情，调度了解抢险救援救灾工作情况。
+		                    </p>
+		                    <p>22日至26日，我国南方将出现持续性降雨，预计将导致长江、西江等大江大河干流水位继续上涨，主要控制站点可能接近警戒水位，江西鄱阳湖水系、湖南洞庭湖水系和安徽、浙江、福建、广东、广西的部分河流可能发生超警洪水，一些中小河流可能发生较大洪水，暴雨极易发生山洪地质灾害。</p>
+		                    <p>据预测，今年年景总体偏差。各级防指、应急管理部门要进一步认清当前防汛工作的严峻形势，确保人民群众生命安全。各级防指要着力夯实以行政首长负责制为核心的各项防汛抗洪责任制，加强统筹协调，压实各级防指成员单位部门责任，落实基层组织的一线责任，及时启动响应，强化群众的动员组织。防指各成员单位要密切监视雨情水情汛情险情灾情变化，滚动开展研判会商，及时落实各项措施。</p>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+
+</body>
+</html>

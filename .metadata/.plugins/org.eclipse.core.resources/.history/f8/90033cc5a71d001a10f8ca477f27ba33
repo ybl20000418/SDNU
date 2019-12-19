@@ -1,0 +1,31 @@
+
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="CSS/style4.css">
+<title> title</title>
+</head>
+<body>
+<div id="nav-1">
+
+    <ul class="nav">
+        <li class="slide1"></li>
+        <li class="slide2"></li>
+        <li><a class="active" href="#/">网站首页</a></li>
+        <li><a href="#/">关于我们</a></li>
+        <li><a href="#/">公司简介</a></li>
+        <li><a href="#/">成功案例</a></li>
+        <li><a href="#/">联系我们</a></li>
+    </ul>
+
+</div>
+
+<script src='js/jquery.min4.js'></script>
+<script src="js/script4.js"></script>
+
+</div>
+</body>
+</html>

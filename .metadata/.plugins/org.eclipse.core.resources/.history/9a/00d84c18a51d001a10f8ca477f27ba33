@@ -1,0 +1,62 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>借阅规则</title>
+<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<meta name="keywords" content="" />
+	<script type="application/x-javascript">
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<!--// Meta tag Keywords -->
+    
+	<!-- css files -->
+	<link rel="stylesheet" href="CSS/bootstrap2.css"> <!-- Bootstrap-Core-CSS -->
+	<link rel="stylesheet" href="CSS/style2.css" type="text/css" media="all" /> <!-- Style-CSS --> 
+	<link rel="stylesheet" href="CSS/fontawesome-all2.css"> <!-- Font-Awesome-Icons-CSS -->
+	<!-- //css files -->
+	<link rel="stylesheet" href="CSS/flexslider2.css" type="text/css" media="screen" />
+	
+	<!--web font-->
+	<link href="http://fonts.googleapis.com/CSS?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin-ext" rel="stylesheet">
+	<!--//web font-->
+<style>
+.row {
+		margin-top:8px;
+		color:#fff;
+		padding-left: 20px;
+		padding-right: 20px;
+		
+	}
+</style>
+</head>
+<body>
+<section class="services py-5" id="services">
+	<div class="container">
+		<div class="head_part">
+		  <h3 class="heading">借阅须知：</h3>
+		  <p class="heading-bottom mb-5">&nbsp;</p>
+		</div>
+		<div class="serv-grids text-center">
+			<div class="serv-icons"> <span class="fab mr-md-5 mr-3 fa-accusoft" aria-hidden="true"></span>
+			</div>
+		  <h4>图书馆书刊阅览与外借规则</h4>
+		  <p> &nbsp;1.图书馆图书只向我校全日制本科生、研究生、交换生和教职工提供借阅。进入书库请首先出示本人校园卡（无卡者不得进入），并拿取代书板后方可入库，用完放回原处。 2.读者应将携带的书包、水杯、书籍等物放在指定地点，请勿带入书库内。 3.读者选书时请使用代书板，严禁乱插乱放，以保证图书排架准确、整齐。 4.请保持库内安静，不得随地吐痰，严禁吸烟、乱扔杂物等。 5.借书前请仔细检查图书污损（包括污渍、水渍、油渍、划痕、字迹、撕页、缺页等）。若书籍有污损，请在借书时声明，待工作人员处理好后再借。还书时，如发现图书有污损，将按有关规定处理。 </p>
+		  <p>&nbsp;</p>
+		  <div class="read"> </div>
+		</div>
+		
+	</div>
+</section>
+</body>
+</html>

@@ -1,0 +1,68 @@
+*{
+	padding: 0px;
+    margin: 0px;
+}
+div#show{
+	position:absolute;
+	top: 35px;
+	left: 0px;
+	height:200px;
+	width: 100%;
+	border-style: outset;
+}
+img#back{  
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 30px;
+	width: 40px;
+}
+table{
+	border-collapse: collapse;
+}
+tr.head{
+	font-size:20px;
+	background-color: aquamarine;
+}
+td.inf{
+	font-size: 15px;
+	background-color: antiquewhite;
+}
+div#edit{
+	position:absolute;
+	top:  210px;
+	left: 0px;
+	height:560px;
+	width: 100%;
+	border-style: outset;
+	border-color:chocolate;
+}
+select{	
+    position:absolute;
+    top: 80px;
+	left: 100px;
+	height: 35px;
+	width:120px;
+    background:#AD8080;
+   text-align:center;
+	
+
+}
+input#value{	
+	position:absolute;
+	top: 80px;
+	left: 260px;
+	height: 30px;
+	width:300px;
+	font-size: 20px;
+}
+input#sear{
+	background-image:url("../images/alter.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	position:absolute;
+    top: 150px;
+	left: 280px;
+	height: 35px;
+	width:120px;
+}

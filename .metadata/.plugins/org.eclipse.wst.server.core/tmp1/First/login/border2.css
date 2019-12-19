@@ -1,0 +1,23 @@
+@charset "UTF-8";
+p{
+	border-style:dashed soild soild soilf;
+	font-size:16pt;
+	align=center;
+}
+form{
+	width:320px;
+	height:150px;
+	padding-top:20px;
+	margin:50px auto;
+	border-raduis:20px;
+	border:3px soild #ffff00;
+}
+img{
+	display:block;
+	text-align:center;
+	margin: 0 auto;
+	}
+body1{
+	background: url(file:///F:/Java/Web%20development%20project/First/WebContent/image/bj5.png) repeat-x;
+backgroun-size:100% 100%;
+}

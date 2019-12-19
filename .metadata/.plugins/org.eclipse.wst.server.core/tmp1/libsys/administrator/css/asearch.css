@@ -1,0 +1,67 @@
+div#search{
+	position:absolute;
+	top:0px;
+	left: 0px;
+	height:200px;
+	width: 100%;
+	border-style: outset;
+	border-color: coral;
+	
+}
+select{	
+    position:absolute;
+    top: 50px;
+	left: 450px;
+	height: 35px;
+	width:120px;
+    background:#AD8080;
+   text-align:center;
+	
+
+}
+input#value{	
+	position:absolute;
+	top: 50px;
+	left: 580px;
+	height: 30px;
+	width:300px;
+	font-size: 20px;
+}
+input#sear{
+	background-image:url("../images/search.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	position:absolute;
+    top: 50px;
+	left: 890px;
+	height: 35px;
+	width:50px;
+}
+div#infor{
+	position:absolute;
+    top: 210px;
+	left: 0px;
+	height: 800px;
+	width: 100%;
+	border-style: outset;
+	border-color: coral;
+
+}
+table{
+	border-collapse: collapse;
+}
+tr.head{
+	font-size:20px;
+	background-color: aquamarine;
+}
+td.inf{
+	font-size: 15px;
+	background-color: antiquewhite;
+}
+td.inf1{
+	font-size: 15px;
+	background-color: antiquewhite;
+}
+a{
+	text-decoration:none;
+}

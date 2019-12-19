@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> title</title>
+<style>
+.roe{
+   padding-top:20px;
+   color: #fff;
+   text-align: center;
+   font-size: 50px;
+   font-family:'STKaiti';
+}
+.roa{
+   text-align:right;
+   float:right ;
+
+
+}
+</style>
+</head>
+<body>
+<img src="images/yijianziji.png">
+</body>
+</html>

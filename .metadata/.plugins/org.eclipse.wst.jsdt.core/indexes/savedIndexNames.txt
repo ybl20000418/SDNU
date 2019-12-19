@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+F:\beifen\Web development project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1511872800.index
+1105316014.index
+2685330717.index
+1351312468.index
+1595694945.index
+343566417.index
+2936445997.index
